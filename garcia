@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My resume</title>
+</head>
+<body>  
+    <img src="" height="100px" width="100px">
+    <style>
+        img{
+            border-radius: 60px;
+            border: 5px solid #d467d4;
+        }
+        body{
+            background-color: #efefef;
+            color: #d467d4;
+        }
+        li{
+            color: black;
+        }
+        p{
+            color: black;
+        }
+    </style>
+    <h2>PERSONAL INFORMATION</h2>
+    <ul>
+        <li>NAME: FRANCINE JANE C. GARCIA</li>
+        <li>AGE: 21</li>
+        <li>EMAIL: garciafrncn@gmail.com</li>
+        <li>CONTACT: +63 (9752792873)</li>
+    </ul>
+
+    <hr>
+    <h2>ABOUT ME</h2>
+    <p>Motivated and reliable individual with strong communication skills and a positive work attitude. 
+    Eager to learn, adapt, <br> and contribute effectively to a team while continuously developing personal 
+    and professional skills. Dedicated student with <br> a strong sense of responsibility and willingness to learn.
+    Possesses good organizational skills, attention to detail, and the <br>ability to work well both independently 
+    and in a team environment.</p>
+    <hr> 
+    <h2>CAREER OBJECTIVE</h2>
+    <p>A motivated and responsible Business Administration student majoring in Marketing Management seeking to apply <br>
+        basic marketing knowledge, communication skills, and creativity in academic and practical business-related activities.
+</p>
+    <hr>
+    <h2>EDUCATION</h2>
+    <p>Bachelor of Science in Business Administration <br>(Major in Marketing Management)
+    <br>University of Perpetual Help System — GMA, Cavite
+    <br>2023 – 2026</p>
+    <hr>
+    <h2>WORK EXPERIENCE</h2>
+    <ul>
+        <li>
+            <h3>Marketing and Sales Assistant </h3>
+        </li>
+        <ul>
+            <li>Assisted in promoting products through social media platforms such as Facebook and Instagram</li>
+            <li>Helped create simple marketing content, captions, and basic promotional materials</li>
+            <li>Assisted customers by explaining product features, prices, and promotions</li>
+            <li>Observed customer behavior and preferences to support basic marketing decisions</li>
+            <li>Helped organize product displays and manage basic inventory</li>
+        </ul>
+    </ul>
+    <hr>
+    <h2>SKILLS</h2>
+    <ul>
+        <li>
+            <h3>Marketing Skills</h3>
+        </li>
+        <ul>
+            <li>Basic knowledge of marketing principles</li>
+            <li> Understanding of consumer behavior</li>
+            <li>Product promotion and branding concepts</li>
+        </ul>
+        <li>
+            <h3>Business Skills</h3>
+        </li>
+        <ul>
+            <li>Business communication</li>
+            <li>Basic sales strategies task</li>
+            <li>Problem-solving skills</li>
+        </ul>
+        <li>
+            <h3>Technical Skills</h3>
+        </li>
+        <ul>
+            <li>Microsoft Word</li>
+            <li>Microsoft PowerPoint</li>
+            <li>Basic Microsoft Excel</li>
+        </ul>
+    </ul>
+    <hr>
+    <h2>ACADEMIC ACTIVITIES</h2>
+    <ul>
+        <li>Participated in marketing presentations and group projects</li>
+        <li>Conducted simple surveys and case studies related to marketing</li>
+        <li>Assisted in developing sample marketing plans and promotional strategies</li>
+    </ul>
+    <hr>
+    <h2>CHARACTER REFERENCE</h2>
+    <ul>
+        <li>Available upon request</li>
+    <ul>
+    <hr>
+    <h2>SOCIAL ACCOUNTS</h2>
+    </ul>
+         <li>FACEBOOK</li>
+</body>
+</html>
+
